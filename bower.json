@@ -1,0 +1,13 @@
+{
+    "name": "crumpler.com",
+    "version": "1.0.0",
+    "private": "true",
+    "dependencies": {
+        "underscore": null,
+        "foundation": "zurb/bower-foundation",
+        "components-font-awesome": null,
+        "jquery.nicescroll": "https://raw.githubusercontent.com/babadofar/jquery.nicescroll/master/jquery.nicescroll.js",
+        "slick-carousel": null,
+        "enquire": null
+    }
+}
