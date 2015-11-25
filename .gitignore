@@ -1,0 +1,73 @@
+###Windows###
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+
+###Linux###
+
+!.gitignore
+*~
+
+# KDE
+.directory
+
+
+###OSX###
+
+.DS_Store
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+/.sonar/
+
+/.idea/
+
+.htaccess
+/htdocs/index.php.sample
+/htdocs/LICENSE_AFL.txt
+/htdocs/LICENSE.html
+/htdocs/LICENSE.txt
+/htdocs/LICENSE_EE*
+/htdocs/php.ini.sample
+/htdocs/RELEASE_NOTES.txt
+/htdocs/.htaccess.sample
+/htdocs/sitemap.xml
+/htdocs/app/design/install/
+/htdocs/app/etc/local.xml.additional
+/htdocs/app/etc/local.xml
+/htdocs/maintenance.flag
+/htdocs/downloader/connect.cfg
+/htdocs/var
+/htdocs/downloader/cache.cfg
+/htdocs/downloader/.cache
+/htdocs/media/catalog
+/htdocs/media/css_secure
+/htdocs/media/css
+/htdocs/media/js
+/htdocs/media/tmp/*
+/htdocs/media/giftvoucher/template/barcode/*
+/htdocs/media/wysiwyg/*
+!/htdocs/media/wysiwyg/swatches/
+!/htdocs/media/wysiwyg/test/
+/htdocs/media/wysiwyg/.thumbs/*
+/htdocs/skin/install/
+/scripts/catalog/data/images/*
+/scripts/deploy/tmp/
+
+/htdocs/skin/frontend/crumpler.com/enterprise/npm-debug.log
+/htdocs/skin/frontend/crumpler.com/enterprise/css/*
+/htdocs/skin/frontend/crumpler.com/enterprise/js/*
+/htdocs/skin/frontend/crumpler.com/enterprise/node_modules/*
+/htdocs/skin/frontend/crumpler.com/enterprise/bower_components/*
