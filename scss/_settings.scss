@@ -1,0 +1,10 @@
+// Allows the use of rem-calc() or lower-bound() in your settings
+@import "../bower_components/foundation/scss/foundation/functions";
+
+@import "mixins";
+@import "fonts";
+
+// Grid
+$row-width: rem-calc(1170);
+$body-font-family: Roboto, sans-serif;
+$default-font-size: rem-calc(14);
