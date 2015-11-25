@@ -3,11 +3,7 @@
     "version": "1.0.0",
     "private": "true",
     "dependencies": {
-        "underscore": null,
-        "foundation": "zurb/bower-foundation",
-        "components-font-awesome": null,
-        "jquery.nicescroll": "https://raw.githubusercontent.com/babadofar/jquery.nicescroll/master/jquery.nicescroll.js",
-        "slick-carousel": null,
-        "enquire": null
+        "foundation": "5.5.2",
+        "components-font-awesome": "4.4.0"
     }
 }
